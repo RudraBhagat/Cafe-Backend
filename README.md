@@ -1,8 +1,3 @@
-Here is a clean, professional **README.md** for your **Cafe Management System (Node.js + Express + MySQL)** project.
-You can copy-paste this directly into a `README.md` file.
-
----
-
 # ☕ Cafe Management System – Backend API
 
 A complete backend solution for managing a café, built using **Node.js**, **Express**, and **MySQL**.
@@ -208,3 +203,4 @@ Pull requests are welcome!
 You can improve code structure, add more features, or fix bugs.
 
 ---
+
